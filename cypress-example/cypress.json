@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://qualityshepherd.com/",
+    "fixturesFolder": "fixtures",
+    "integrationFolder": "specs",
+    "pluginsFile": "plugins",
+    "screenshotsFolder": "screenshots",
+    "supportFile": "support",
+	"viewportWidth": 1280,
+  	"viewportHeight": 660
+}
