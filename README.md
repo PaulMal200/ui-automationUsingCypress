@@ -19,6 +19,6 @@ An example project using the automation tool, [Cypress](https://www.cypress.io/)
 ## Run The Tests
 1. npx cypress run - headless
 or
-1. Through Cypress app - Command promt: './node_modules/.bin/cypress open'
+1. through Cypress app - Command promt: './node_modules/.bin/cypress open'
 ---
 
