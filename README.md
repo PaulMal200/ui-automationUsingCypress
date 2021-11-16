@@ -4,10 +4,9 @@ UI automation using Cypress
 
 # Cypress Example
 
-An example project using the automation tool, [Cypress](https://www.cypress.io/). T
+An example project using the automation tool, [Cypress](https://www.cypress.io/). 
 - page objects
 - various ways of running the tests (via npm scripts)
-- 
 
 ## Requires
 1. [node](https://nodejs.org/en/)
